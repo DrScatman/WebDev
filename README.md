@@ -1,2 +1,2 @@
 # WebDev
-Assignments from mmy web application programming class
+Assignments from my web application programming class
