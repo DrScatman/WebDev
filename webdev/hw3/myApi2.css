@@ -1,0 +1,43 @@
+.odd {
+    background-color: cyan;
+}
+
+.even {
+    background-color: silver;
+}
+
+#table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contents {
+    background-color: grey;
+    align-items: center;
+}
+
+#controls {
+    background-color: cyan;
+}
+
+#title {
+    background-color: cyan;
+}
+
+@media only screen and (max-width: 800px) {
+    .two {
+        display: none;
+    }
+
+    .three {
+        display: none;
+    }
+
+    .four {
+        display: none;
+    }
+
+    .five {
+        display: none;
+    }
+}

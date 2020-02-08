@@ -1,0 +1,27 @@
+#part02 p.domestic {
+    font-family: "times";
+    font-style: initial;
+    color: green;
+}
+
+#part02 p.international {
+    font-family: "roboto";
+    font-style: italic;
+    color: red;
+}
+
+#part03 li.heavy {
+    color: hsl(120, 100%,20%);
+}
+
+#part03 li.light {
+    color: hsl(120, 100%, 70%);
+}
+
+#part04 tr.heavy {
+    background-color: rgb(126, 48, 6);
+}
+
+#part04 tr.light {
+    background-color: rgb(10, 196, 202);
+}
